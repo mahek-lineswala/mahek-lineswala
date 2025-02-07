@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Mahek Lineswala<br><br>🔭currently working on an expense tracker web application<br>🌱currently learning php, javascript, ML<br>💫My portfolio website - mahek-lineswala.github.io/portfolio<br>🎮I'm interested in designing, coding, learning new things and looking for collaborating on new projects<br>📫Reach me at - maheklineswala@gmail.com<br>
+👋 Hi, I'm Mahek Lineswala<br><br>🔭currently working on an expense tracker web application<br>🌱currently learning php, javascript, ML<br>💫My portfolio website - <a href="https://mahek-lineswala.github.io/portfolio/">mahek-lineswala.github.io</a><br>🎮I'm interested in designing, coding, learning new things and looking for collaborating on new projects<br>📫Reach me at - maheklineswala@gmail.com<br>
 
 
 ## 🌐 Socials:
